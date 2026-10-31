@@ -11,7 +11,7 @@ else:
   elif(age<=17 and show_type=="premium"):
     print("premium show ticket price is 200")
   elif(age>=18 and show_type=="premium"):
-    print("premium show ticket price is 350")
+    print("premium show ticket price is 300")
   else:
     if(age<5):
       print("ticket is free")
